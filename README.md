@@ -20,4 +20,4 @@ using the flags -Wall -Werror -Wextra and -pedantic
 * All files were linted for syntax and style with [Betty](https://github.com/holbertonschool/Betty
 
 ### Authors
-* [Mercy Igwe](https://github.com/MjKamma
+* [Wonderful Emmanuel](https://github.com/Beardbreadman
